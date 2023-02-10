@@ -1,0 +1,12 @@
+String title = "Child Care Hospital";
+String update = "last updated a few seconds ago";
+const lblToday = "Today";
+const lblCalendar = "Calendar";
+const lblBook = "Book";
+const id = "Male #F55-6835-2880";
+const phNumber = "+919048199435";
+const lblAccount = "Account";
+String caseh = "Case History";
+String call = "Call";
+String msg = "Message";
+String fresh = "Fresh";
